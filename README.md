@@ -2,48 +2,46 @@
 A simple service that lets you explore and share quotes.
 
 ## Technology Stack
-**Front-end:** React, Typescript, and Styled-componentss
-**Back-end:** Node.js, Express, and Mongoose (MongoDB).
+- **Front-end:** React, Typescript, and Styled-components
+- **Back-end:** Node.js, Express, and Mongoose (MongoDB).
 
-## Run Locally
-Clone the project.
+## Getting Started Locally
+Clone the Repository.
 ```bash
-git clone https://github.com/SyntaxBreaker/Quotes.git
+git clone git@github.com:SyntaxBreaker/quotes.git
+cd quotes
 ```
 
-Go to the project directory.
-```bash
-cd Quotes
-```
-
-### To install the back-end
-Go to the backend folder, then edit the .env.example file. Replace the name of the .env.example file with the .env.
+### Set Up the Backend
+Navigate to the **backend** folder:
 ```bash
 cd backend
 ```
+Copy the **.env.example** file to **.env** and update environment variables as needed.
 
-Install dependencies.
+Install dependencies:
 ```bash
 npm install
 ```
 
-Start the back-end.
+Start the backend server:
 ```bash
 npm start
 ```
 
-### To install the front-end
-Go to the frontend folder, then edit the .env.example file. Replace the name of the .env.example file with the .env.
+### Set Up the Frontend
+Navigate to the **frontend** folder:
 ```bash
 cd frontend
 ```
+Copy the **.env.example** file to **.env** and configure it if needed.
 
-Install dependencies
+Install dependencies:
 ```bash
 npm install
 ```
 
-Start the front-end
+Start the frontend development server:
 ```bash
 npm start
 ```
