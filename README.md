@@ -47,4 +47,4 @@ npm start
 ```
 
 ## Author
-- [@SyntaxBreaker](https://github.com/SyntaxBreaker)
+- **[SyntaxBreaker]**: [[GitHub](https://www.github.com/SyntaxBreaker)] [[Website](https://syntaxbreaker.netlify.app)]
